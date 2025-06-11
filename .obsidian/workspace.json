@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f38522697a2dc717",
+            "id": "4834ade7b0a6b215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Виртуальные функции.md",
+                "file": "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы цикла.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,20 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Виртуальные функции"
+              "title": "Операторы цикла"
             }
           },
           {
-            "id": "4834ade7b0a6b215",
+            "id": "f38522697a2dc717",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Study/ExamOOP4sem/Q7 Основные типы данныx/Основные типы данных.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Основные типы данных"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,51 +256,51 @@
   },
   "active": "f38522697a2dc717",
   "lastOpenFiles": [
-    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Полиморфизм.md",
-    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Виртуальные функции.md",
+    "Study/ExamOOP4sem/Q12 Наследование в СS/Наследование.md",
+    "Study/ExamOOP4sem/Q2 Сборщик мусора/Сборщик мусора.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы цикла.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы выбора.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы выражений.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы перехода.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Приоритет операторов.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Побитовые операторы.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Операторы сравнения.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Операторы присваивания и инкремента, декремента.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы объявления.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы итераций.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Арифметические операторы.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Ассоциативность операторов.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Логические операторы.md",
+    "Study/ExamOOP4sem/Q3 Описание классов в СS. Создание объектов класса/Классы и объекты.md",
     "Study/ExamOOP4sem/resourses/OOP_Voprosy_k_ekzamenu_25.pdf",
+    "Study/ExamOOP4sem/Q5 Модификаторы доступа к компонентам класса. Статические компоненты класса/Модификаторы доступа.md",
+    "Study/ExamOOP4sem/Q6 Конструкторы, this, деструкторы/Конструкторы.md",
+    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Значимые типы.md",
+    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Виртуальные функции.md",
+    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Полиморфизм.md",
     "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Операторы is и as.md",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Определение типа.md",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Класс Type.md",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Рефлексия.md",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof",
-    "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур/Отличия структуры и класса.md",
-    "Study/ExamOOP4sem/Q5 Модификаторы доступа к компонентам класса. Статические компоненты класса/Статические компоненты класса.md",
-    "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур/Запрет наследования.md",
-    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Значимые типы.md",
-    "Study/ExamOOP4sem/Q3 Описание классов в СS. Создание объектов класса/Классы и объекты.md",
     "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур",
-    "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании/Скрытие при наследовании.md",
-    "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании/Ключевое слово base.md",
-    "Study/ExamOOP4sem/Q6 Конструкторы, this, деструкторы/Конструкторы.md",
     "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании/Без названия",
-    "Study/ExamOOP4sem/Q13 Пространства имен. Директива using. Оператор доступа к namespase/Квалификатор псевдонима пространства имен.md",
-    "Study/ExamOOP4sem/Q13 Пространства имен. Директива using. Оператор доступа к namespase/Пространства имен.md",
-    "Study/ExamOOP4sem/Q12 Наследование в СS/Наследование.md",
     "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании",
-    "Study/ExamOOP4sem/Q4 Реализация инкапсуляции в CS. Абстракция, интерфейс и реализация/Абстракция.md",
     "Study/ExamOOP4sem/Q13 Пространства имен. Директива using. Оператор доступа к namespase",
-    "Study/ExamOOP4sem/Q5 Модификаторы доступа к компонентам класса. Статические компоненты класса/Модификаторы доступа.md",
-    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Ссылочные типы.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы.md",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153341.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153145.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153017.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152942.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152939.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152922.png",
-    "Study/ExamOOP4sem/Q12 Наследование в СS/Без названия.md",
     "Study/ExamOOP4sem/Q12 Наследование в СS",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы перехода.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы итераций.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы выражений.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы объявления.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250602151637.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250602192939.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250603130856.png",
-    "Study/ExamOOP4sem/resourses/img/коллекции.png",
-    "Study/ExamOOP4sem/Q10 Передача параметров функций. Модификаторы out и ref. Методы с переменным числом параметров"
+    "Study/ExamOOP4sem/resourses/img/коллекции.png"
   ]
 }

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4834ade7b0a6b215",
+            "id": "a1fed886d1681c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы цикла.md",
+                "file": "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Интерфейсы в CS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Операторы цикла"
+              "title": "Интерфейсы в CS"
             }
           },
           {
-            "id": "f38522697a2dc717",
+            "id": "e319890b841e89ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/ExamOOP4sem/Q7 Основные типы данныx/Основные типы данных.md",
+                "file": "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Ссылочные типы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Основные типы данных"
+              "title": "Ссылочные типы"
+            }
+          },
+          {
+            "id": "a3ae260a8c331dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Наследование интерфейсов.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Наследование интерфейсов"
+            }
+          },
+          {
+            "id": "8955b62bb2091680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Сравнение и клонирование объектов.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Сравнение и клонирование объектов"
             }
           }
         ],
@@ -200,9 +248,19 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
+          },
+          {
+            "id": "da49212266c448cc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "7b833fdd8ff4a211",
@@ -254,37 +312,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f38522697a2dc717",
+  "active": "e319890b841e89ff",
   "lastOpenFiles": [
-    "Study/ExamOOP4sem/Q12 Наследование в СS/Наследование.md",
-    "Study/ExamOOP4sem/Q2 Сборщик мусора/Сборщик мусора.md",
+    "абстрактными методами.md",
+    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Ссылочные типы.md",
+    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Интерфейсы в CS.md",
+    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Наследование интерфейсов.md",
+    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Сравнение и клонирование объектов.md",
+    "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур/Запрет наследования.md",
+    "Study/ExamOOP4sem/Q4 Реализация инкапсуляции в CS. Абстракция, интерфейс и реализация/Абстракция.md",
+    "Study/ExamOOP4sem/resourses/OOP_Voprosy_k_ekzamenu_25.pdf",
+    "Интерфейсы.md",
+    "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
+    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Класс Type.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы цикла.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы выбора.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы.md",
+    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы выражений.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы перехода.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Арифметические операторы.md",
+    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Полиморфизм.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Приоритет операторов.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Побитовые операторы.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Операторы сравнения.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Операторы присваивания и инкремента, декремента.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы объявления.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы итераций.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Арифметические операторы.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Ассоциативность операторов.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Логические операторы.md",
-    "Study/ExamOOP4sem/Q3 Описание классов в СS. Создание объектов класса/Классы и объекты.md",
-    "Study/ExamOOP4sem/resourses/OOP_Voprosy_k_ekzamenu_25.pdf",
-    "Study/ExamOOP4sem/Q5 Модификаторы доступа к компонентам класса. Статические компоненты класса/Модификаторы доступа.md",
-    "Study/ExamOOP4sem/Q6 Конструкторы, this, деструкторы/Конструкторы.md",
-    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Значимые типы.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Ассоциативность операторов.md",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы выбора.md",
     "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Виртуальные функции.md",
-    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Полиморфизм.md",
-    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции",
-    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Операторы is и as.md",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Определение типа.md",
-    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Класс Type.md",
-    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Рефлексия.md",
+    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Операторы is и as.md",
+    "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур/Отличия структуры и класса.md",
+    "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/JIT-компилятор.md",
+    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof",
     "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур",
     "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании/Без названия",
@@ -297,7 +356,6 @@
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152939.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152922.png",
     "Study/ExamOOP4sem/Q12 Наследование в СS",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250602151637.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250602192939.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250603130856.png",

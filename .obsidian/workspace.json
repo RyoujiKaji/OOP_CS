@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом/Различия между абстрактным классом и интерфейсом.md",
+                "file": "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Различия между абстрактным классом и интерфейсом"
+              "title": "Платформа .Net."
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом/Различия между абстрактным классом и интерфейсом.md",
+                "file": "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Различия между абстрактным классом и интерфейсом"
+              "title": "Платформа .Net."
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`typeof`",
+                "query": "неуправля",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,10 +256,23 @@
   },
   "active": "b715de581ed8779e",
   "lastOpenFiles": [
+    "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
+    "Study/ExamOOP4sem/resourses/OOP_Voprosy_k_ekzamenu_25.pdf",
+    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания/Замыкания.md",
+    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания/Лямбда-выражения.md",
+    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания/Анонимные методы.md",
+    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания",
+    "Study/ExamOOP4sem/Q32 Регулярные выражения. Основные понятия/Регулярные выражения.md",
+    "Study/ExamOOP4sem/Q32 Регулярные выражения. Основные понятия/System.Text.RegularExpressions.md",
+    "Study/ExamOOP4sem/Q31 Расширяющие методы. Вложенные типы/Вложенные типы.md",
+    "Study/ExamOOP4sem/Q32 Регулярные выражения. Основные понятия",
+    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы объявления.md",
+    "Study/ExamOOP4sem/Q5 Модификаторы доступа к компонентам класса. Статические компоненты класса/Модификаторы доступа.md",
+    "Study/ExamOOP4sem/Q31 Расширяющие методы. Вложенные типы/Расширяющие методы.md",
+    "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом/Абстрактные классы.md",
+    "Study/ExamOOP4sem/Q31 Расширяющие методы. Вложенные типы",
     "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом/Различия между абстрактным классом и интерфейсом.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы цикла.md",
-    "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом/Абстрактные классы.md",
-    "Study/ExamOOP4sem/resourses/OOP_Voprosy_k_ekzamenu_25.pdf",
     "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Переопределение методов.md",
     "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом",
     "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Полиморфизм.md",
@@ -275,30 +288,17 @@
     "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании/Ключевое слово base.md",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Рефлексия.md",
     "Study/ExamOOP4sem/Q13 Пространства имен. Директива using. Оператор доступа к namespase/Пространства имен.md",
-    "Study/ExamOOP4sem/Q12 Наследование в СS/Наследование.md",
-    "Study/ExamOOP4sem/Q9 Хранение данных в коллекциях и извлечение данных из коллекций. Использование массивов/Массивы.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы итераций.md",
-    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Boxing и unboxing.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Побитовые операторы.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Операторы сравнения.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Операторы присваивания и инкремента, декремента.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Логические операторы.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Ассоциативность операторов.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Арифметические операторы.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки",
     "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции",
     "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof",
     "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур",
     "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании/Без названия",
-    "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании",
-    "Study/ExamOOP4sem/Q13 Пространства имен. Директива using. Оператор доступа к namespase",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153341.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153145.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153017.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152942.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152939.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606152922.png",
-    "Study/ExamOOP4sem/Q12 Наследование в СS",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250602151637.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250602192939.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250603130856.png"

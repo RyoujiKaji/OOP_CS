@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f38522697a2dc717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Платформа .Net."
-            }
-          },
-          {
             "id": "b715de581ed8779e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Study/ExamOOP4sem/resourses/ООП_Ответы.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Платформа .Net."
+              "icon": "lucide-file-text",
+              "title": "ООП_Ответы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,43 +219,43 @@
   },
   "active": "b715de581ed8779e",
   "lastOpenFiles": [
-    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Сравнение и клонирование объектов.md",
-    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Наследование интерфейсов.md",
-    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Интерфейсы в CS.md",
-    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов",
-    "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
     "Study/ExamOOP4sem/resourses/OOP_Voprosy_k_ekzamenu_25.pdf",
-    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания/Замыкания.md",
-    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания/Лямбда-выражения.md",
-    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания/Анонимные методы.md",
-    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания",
-    "Study/ExamOOP4sem/Q32 Регулярные выражения. Основные понятия/Регулярные выражения.md",
-    "Study/ExamOOP4sem/Q32 Регулярные выражения. Основные понятия/System.Text.RegularExpressions.md",
-    "Study/ExamOOP4sem/Q31 Расширяющие методы. Вложенные типы/Вложенные типы.md",
-    "Study/ExamOOP4sem/Q32 Регулярные выражения. Основные понятия",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы объявления.md",
+    "Study/ExamOOP4sem/resourses/ООП_Ответы.pdf",
+    "Study/ExamOOP4sem/resourses/mso2B30.tmp",
+    "Study/ExamOOP4sem/resourses/mso17D6.tmp",
+    "Study/ExamOOP4sem/Q10 Передача параметров функций. Модификаторы out и ref. Методы с переменным числом параметров/Передача по ссылке.md",
+    "Study/ExamOOP4sem/Q10 Передача параметров функций. Модификаторы out и ref. Методы с переменным числом параметров/Передача по значению.md",
+    "Study/ExamOOP4sem/Q10 Передача параметров функций. Модификаторы out и ref. Методы с переменным числом параметров/Передача значений в функцию.md",
+    "Study/ExamOOP4sem/Q10 Передача параметров функций. Модификаторы out и ref. Методы с переменным числом параметров/Методы с переменным числом параметров.md",
+    "Study/ExamOOP4sem/Q9 Хранение данных в коллекциях и извлечение данных из коллекций. Использование массивов/Массивы.md",
+    "Study/ExamOOP4sem/Q9 Хранение данных в коллекциях и извлечение данных из коллекций. Использование массивов/Коллекции.md",
+    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Boxing и unboxing.md",
+    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Значимые типы.md",
+    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Ссылочные типы.md",
+    "Study/ExamOOP4sem/Q8 Ссылочные и значимые типы. Boxing, Unboxing. Класс object/Типы.md",
+    "Study/ExamOOP4sem/Q7 Основные типы данныx/Основные типы данных.md",
+    "Study/ExamOOP4sem/Q6 Конструкторы, this, деструкторы/Деструкторы.md",
+    "Study/ExamOOP4sem/Q6 Конструкторы, this, деструкторы/Инициализаторы.md",
+    "Study/ExamOOP4sem/Q5 Модификаторы доступа к компонентам класса. Статические компоненты класса/Статические компоненты класса.md",
     "Study/ExamOOP4sem/Q5 Модификаторы доступа к компонентам класса. Статические компоненты класса/Модификаторы доступа.md",
-    "Study/ExamOOP4sem/Q31 Расширяющие методы. Вложенные типы/Расширяющие методы.md",
-    "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом/Абстрактные классы.md",
+    "Study/ExamOOP4sem/Q6 Конструкторы, this, деструкторы/Конструкторы.md",
+    "Study/ExamOOP4sem/Q4 Реализация инкапсуляции в CS. Абстракция, интерфейс и реализация/Абстракция.md",
+    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов/Интерфейсы в CS.md",
+    "абстрактных классов.md",
+    "Study/ExamOOP4sem/Q4 Реализация инкапсуляции в CS. Абстракция, интерфейс и реализация/Инкапсуляция.md",
+    "Study/ExamOOP4sem/Q3 Описание классов в СS. Создание объектов класса/Классы и объекты.md",
+    "Study/ExamOOP4sem/Q2 Сборщик мусора/Сборщик мусора.md",
+    "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Common Language Runtime (CLR).md",
+    "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/JIT-компилятор.md",
+    "Study/ExamOOP4sem/Q1 Платформа .Net. Принципы. Сборщик мусора/Платформа .Net..md",
+    "Study/ExamOOP4sem/Q19 Интерфейсы в СS. Наследование интерфейсов. Сравнение и клонирование объектов",
+    "Study/ExamOOP4sem/Q33 Анонимные методы. Лямбда-выражения. Неименованные функции. Замыкания",
+    "Study/ExamOOP4sem/Q32 Регулярные выражения. Основные понятия",
     "Study/ExamOOP4sem/Q31 Расширяющие методы. Вложенные типы",
-    "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом/Различия между абстрактным классом и интерфейсом.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы цикла.md",
-    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Переопределение методов.md",
     "Study/ExamOOP4sem/Q18 Абстрактные классы. Различие между абстрактным классом и интерфейсом",
-    "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции/Полиморфизм.md",
-    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Определение типа.md",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250611231107.png",
-    "Study/ExamOOP4sem/Q14 Ключевое слово base в СS. Сокрытие методов при наследовании/Скрытие при наследовании.md",
-    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Операторы is и as.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки/Приоритет операторов.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы выражений.md",
-    "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/Операторы.md",
-    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof/Класс Type.md",
-    "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур/Запрет наследования.md",
     "Study/ExamOOP4sem/Q11  Операторы. Операторы объявления, выражений, выбора, итераций, перехода/доп заметки",
     "Study/ExamOOP4sem/Q17 Полиморфизм. Виртуальные функции",
-    "Study/ExamOOP4sem/Q16 Операторы is и as. Класс Type. Использование typeof",
-    "Study/ExamOOP4sem/Q15 Классы, закрытые для наследования. Отличия классов от структур",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153341.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153145.png",
     "Study/ExamOOP4sem/resourses/img/Pasted image 20250606153017.png",
